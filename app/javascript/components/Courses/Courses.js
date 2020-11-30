@@ -22,10 +22,18 @@ const Courses = () =>{
             />
         )
     })
+    const tmp = courses.map(item =>{
+        return(
+            item.attributes.name
+        )
+    })
 
     return (
         <div>
             <Header/>
+            <div>
+                {tmp}
+            </div>
             <Home>
                 <Grid>
                     {grid}
