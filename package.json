@@ -17,7 +17,8 @@
     "react-router-dom": "^5.2.0",
     "style-component": "^0.0.1",
     "styled-components": "^5.2.1",
-    "turbolinks": "^5.2.0"
+    "turbolinks": "^5.2.0",
+    "webpack": "^4.0.0"
   },
   "version": "0.1.0",
   "devDependencies": {
