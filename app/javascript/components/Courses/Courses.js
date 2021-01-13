@@ -31,9 +31,6 @@ const Courses = () =>{
     return (
         <div>
             <Header/>
-            <div>
-                {tmp}
-            </div>
             <Home>
                 <Grid>
                     {grid}
